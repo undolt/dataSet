@@ -1,4 +1,12 @@
-{
+{ 
+  "users":[
+    {
+      "id":0,
+      "name": "Abhijit Gayen",
+      "Email": "abhijitgayen428@gmail.com",
+      "comments": "Your website is too"
+    }
+  ],
   "posts":[
     {
       "id" : 0,
